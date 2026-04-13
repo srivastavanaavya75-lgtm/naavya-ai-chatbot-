@@ -33,11 +33,16 @@ A stylish AI-powered desktop chatbot built using Python with a modern lavender g
 
 ---
 
-## 🚀 How to Run
+##  🚀 How to Run
 
 1. Clone the repository:
+Run the following commands in your terminal:
 ```bash
-git clone https://github.com/your-username/naavya-ai-chatbot.git
+git clone https://github.com/srivastavanaavya75-lgtm/naavya-ai-chatbot-.git
+cd naavya-ai-chatbot-
+pip install -r requirements.txt
+python chatbot.py
+```
 
 
 ## 🚀 Highlights
