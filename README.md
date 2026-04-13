@@ -38,3 +38,10 @@ A stylish AI-powered desktop chatbot built using Python with a modern lavender g
 1. Clone the repository:
 ```bash
 git clone https://github.com/your-username/naavya-ai-chatbot.git
+
+
+## 🚀 Highlights
+- Built a fully functional AI chatbot as a desktop application
+- Integrated real-time AI responses using Gemini API
+- Designed a modern glass-style UI for better user experience
+- Implemented chat persistence and export functionality
